@@ -7,10 +7,15 @@ This project is dedicated to creating a basic e-commerce website, encompassing e
 ### Key Features:
 
 **User Authentication:** Enable users to register, log in, and log out securely.
+
 **Shopping Cart Management:** Facilitate easy browsing and purchasing of products.
+
 **Secure Checkout:** Implement a seamless and secure payment experience through integration with the Stripe API.
+
 **API Integration:** Utilize Axios and Django Rest Framework for efficient communication between the frontend and backend.
+
 **Unit Testing:** Ensure the reliability and functionality of the API through comprehensive unit tests.
+
 **Development Deployment:** Incorporate development and deployment best practices for efficient project management.
 
 This project serves as an excellent foundation for building a scalable and robust e-commerce platform, providing essential functionalities and deployment features.
