@@ -4,6 +4,8 @@
 
 This project is dedicated to creating a basic e-commerce website, encompassing essential features such as user registration, authentication, shopping cart management, and secure checkout. Developed with Django for the backend, Vue.js for the frontend, and PostgreSQL for the database, the project is containerized using Docker for seamless deployment.
 
+**Note:** For convenience in testing, a "create superuser" functionality has been included in the entrypoint.sh file within the ecommerce_web_proj directory. While this allows for quick setup and testing purposes, it is recommended to use more secure methods for creating superusers in a production environment.
+
 ### Key Features:
 
 **User Authentication:** Enable users to register, log in, and log out securely.
