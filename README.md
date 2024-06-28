@@ -1,5 +1,16 @@
 # E-commerce Web Project (Django and Vue)
 
+## 🎉 Acknowledgement and Support Appreciated!
+
+Hello there! If you found this project helpful or intriguing, I’d be delighted if you’d consider showing your appreciation. A ⭐️ star on GitHub not only brings a smile to my face but also helps others discover and benefit from this work.
+
+### 🏆 How to Give Credit
+In the spirit of open collaboration, if you use or build upon this project, I kindly ask that you credit the original work. A mention in your documentation or a comment in your code would be fantastic.
+
+I welcome any advice, suggestions, or feedback you have on how to improve this project. Whether it's about coding practices, design choices, or new features to add, your input is invaluable.
+
+Thank you for checking out this project!
+
 ## About This E-commerce Web Project
 
 This project is dedicated to creating a basic e-commerce website, encompassing essential features such as user registration, authentication, shopping cart management, and secure checkout. Developed with Django for the backend, Vue.js for the frontend, and PostgreSQL for the database, the project is containerized using Docker for seamless deployment.
@@ -32,10 +43,3 @@ I would like to express my gratitude to [Michael Herman](https://testdriven.io/b
 
 
 
-## Feedback and Support Welcome!
-
-If you found this project helpful or interesting, consider giving it a ⭐️. Your support means a lot to me and helps others discover the project.
-
-I welcome any advice, suggestions, or feedback you have on how to improve this project. Whether it's about coding practices, design choices, or new features to add, your input is invaluable.
-
-Thank you for checking out this project!
